@@ -1,0 +1,96 @@
+No., Virus ID, Host, Province, Accession number
+1, GZ02, Homo sapiens, Guangdong, AY390556
+2, BJ01, Homo sapiens, Beijing, AY278488
+3, TOR2, Homo sapiens, Canada, AY274119
+4, SZ3, Paguma larvata, Guangdong, AY304486
+5, HKU3-7, Rhinolophus sinicus, Guangdong, GQ153542
+6, HKU3-8, Rhinolophus sinicus, Guangdong, GQ153543
+7, GX2013, Rhinolophus sinicus, Guangxi, KJ473815
+8, Rp3, Rhinolophus pearsonii, Guangxi, DQ071615
+9, Anlong-103, Rhinolophus sinicus, Guizhou, KY770858
+10, Anlong-111, Rhinolophus rex, Guizhou, KF294455
+11, Anlong-112, Rhinolophus sinicus, Guizhou, KY770859
+12, Anlong-300, Rhinolophus sinicus, Guizhou, KF294441
+13, Anlong-97, Rhinolophus sinicus, Guizhou, KF294440
+14, Rs672/2006, Rhinolophus sinicus, Guizhou, FJ588686
+15, HeB2013, Rhinolophus ferrumequinum, Hebei, KJ473812
+16, HeN2013, Rhinolophus ferrumequinum, Henan, KJ473817
+17, Jiyuan-331, Rhinolophus ferrumequinum, Henan, KF294456
+18, Jiyuan-84, Rhinolophus ferrumequinum, Henan, KY770860
+19, HKU3-1, Rhinolophus sinicus, Hong Kong, DQ022305
+20, HKU3-2, Rhinolophus sinicus, Hong Kong, DQ084199
+21, HKU3-3, Rhinolophus sinicus, Hong Kong, DQ084200
+22, HKU3-4, Rhinolophus sinicus, Hong Kong, GQ153539
+23, HKU3-5, Rhinolophus sinicus, Hong Kong, GQ153540
+24, HKU3-6, Rhinolophus sinicus, Hong Kong, GQ153541
+25, HKU3-9, Rhinolophus sinicus, Hong Kong, GQ153544
+26, HKU3-10, Rhinolophus sinicus, Hong Kong, GQ153545
+27, HKU3-11, Rhinolophus sinicus, Hong Kong, GQ153546
+28, HKU3-12, Rhinolophus sinicus, Hong Kong, GQ153547
+29, HKU3-13, Rhinolophus sinicus, Hong Kong, GQ153548
+30, BtCoV/273/2005, Rhinolophus ferrumequinum, Hubei, DQ648856
+31, BtCoV/279/2005, Rhinolophus macrotis, Hubei, DQ648857
+32, HuB2013, Rhinolophus sinicus, Hubei, KJ473814
+33, Rf1, Rhinolophus ferrumequinum, Hubei, DQ412042
+34, Rm1, Rhinolophus_macrotis, Hubei, DQ412043
+35, JL2012, Rhinolophus ferrumequinum, Jilin, KJ473811
+36, JTMC15, Rhinolophus ferrumequinum, Jilin, KU182964
+37, Rp/Shaanxi2011, Rhinolophus pusillus, Shaanxi, JX993987
+38, SX2013, Rhinolophus ferrumequinum, Shanxi, KJ473813
+39, As6526, Aselliscus stoliczkanus, Yunnan, KY417142
+40, LYRa11, Rhinolophus affinis, Yunnan, KF569996
+41, MLHJC35, Rhinolophus sinicus, Yunnan, KU182963
+42, Rf4092, Rhinolophus ferrumequinum, Yunnan, KY417145
+43, Rs3367, Rhinolophus sinicus, Yunnan, KC881006
+44, Rs4081, Rhinolophus sinicus, Yunnan, KY417143
+45, Rs4084, Rhinolophus sinicus, Yunnan, KY417144
+46, Rs4231, Rhinolophus sinicus, Yunnan, KY417146
+47, Rs4237, Rhinolophus sinicus, Yunnan, KY417147
+48, Rs4247, Rhinolophus sinicus, Yunnan, KY417148
+49, Rs4255, Rhinolophus sinicus, Yunnan, KY417149
+50, Rs4874, Rhinolophus sinicus, Yunnan, KY417150
+51, Rs7327, Rhinolophus sinicus, Yunnan, KY417151
+52, Rs9401, Rhinolophus sinicus, Yunnan, KY417152
+53, RsSHC014, Rhinolophus sinicus, Yunnan, KC881005
+54, WIV1, Rhinolophus sinicus, Yunnan, KF367457
+55, WIV16, Rhinolophus sinicus, Yunnan, KT444582
+56, YN2013, Rhinolophus sinicus, Yunnan, KJ473816
+57, YNLF_31C, Rhinolophus ferrumequinum, Yunnan, KP886808
+58, YNLF_34C, Rhinolophus ferrumequinum, Yunnan, KP886809
+59, bat-SL-CoVZC45, Rhinolophus sinicus, Zhejiang, MG772933
+60, bat-SL-CoVZXC21, Rhinolophus sinicus, Zhejiang, MG772934
+61, Longquan-4, Rhinolophus monoceros, Zhejiang, KF294442
+62, Longquan-7, Rhinolophus pearsonii, Zhejiang, KF294443
+63, Longquan-17, Rhinolophus monoceros, Zhejiang, KF294444
+64, Longquan-20, Rhinolophus monoceros, Zhejiang, KF294445
+65, Longquan-32, Rhinolophus monoceros, Zhejiang, KF294446
+66, Longquan-33, Rhinolophus monoceros, Zhejiang, KF294447
+67, Longquan-34, Rhinolophus monoceros, Zhejiang, KF294448
+68, Longquan-36, Rhinolophus monoceros, Zhejiang, KF294449
+69, Longquan-39, Rhinolophus monoceros, Zhejiang, KF294450
+70, Longquan-45, Rhinolophus monoceros, Zhejiang, KF294451
+71, Longquan-51, Rhinolophus monoceros, Zhejiang, KF294452
+72, Longquan-76, Rhinolophus monoceros, Zhejiang, KF294453
+73, Longquan-79, Rhinolophus monoceros, Zhejiang, KF294454
+74, Longquan-82, Rhinolophus monoceros, Zhejiang, KF294420
+75, Longquan-89, Rhinolophus sinicus, Zhejiang, KF294421
+76, Longquan-94, Rhinolophus monoceros, Zhejiang, KF294422
+77, Longquan-96, Rhinolophus monoceros, Zhejiang, KF294423
+78, Longquan-100, Rhinolophus monoceros, Zhejiang, KF294424
+79, Longquan-103, Rhinolophus thomasi, Zhejiang, KF294425
+80, Longquan-105, Rhinolophus monoceros, Zhejiang, KF294426
+81, Longquan-106, Rhinolophus monoceros, Zhejiang, KF294427
+82, Longquan-110, Rhinolophus monoceros, Zhejiang, KF294428
+83, Longquan-112, Rhinolophus monoceros, Zhejiang, KF294429
+84, Longquan-114, Rhinolophus monoceros, Zhejiang, KF294430
+85, Longquan-119, Rhinolophus monoceros, Zhejiang, KF294431
+86, Longquan-126, Rhinolophus sinicus, Zhejiang, KF294432
+87, Longquan-127, Rhinolophus sinicus, Zhejiang, KF294433
+88, Longquan-129, Rhinolophus monoceros, Zhejiang, KF294434
+89, Longquan-131, Rhinolophus monoceros, Zhejiang, KF294435
+90, Longquan-132, Rhinolophus monoceros, Zhejiang, KF294436
+91, Longquan-138, Rhinolophus monoceros, Zhejiang, KF294437
+92, Longquan-140, Rhinolophus monoceros, Zhejiang, KF294457
+93, Longquan-142, Rhinolophus monoceros, Zhejiang, KF294438
+94, BM48-31, Rhinolophus blasii, Bulgaria, NC_014470
+95, 16BO133, Rhinolophus ferrumequinum, South Korea, KY938558
