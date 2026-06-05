@@ -1,0 +1,142 @@
+accession	strain	product
+0	MH615800.1	Rspp7896_Yunnan	ORF8c
+1	MH615801.1	Rspp7905_Yunnan	ORF8c
+2	MH615802.1	Rspp7907_Yunnan	ORF8c
+3	MH615803.1	Ra7909_Yunnan	ORF8c
+4	MH615804.1	Rspp7921_Yunnan	ORF8c
+5	MH615805.1	Rspp7924_Yunnan	ORF8c
+6	MH615806.1	Rspp7931_Yunnan	ORF8c
+7	MH615807.1	Rspp7952_Yunnan	ORF8c
+8	MH615808.1	Rs151334_Guizhou	ORF8b
+9	MH615809.1	Fars 1M	Unknown
+10	MH615810.1	Unknown	NS7b protein
+11	MH615811.1	Unknown	GSEFLamide precursor isoform 1
+12	MH615812.1	Unknown	GSEFLamide precursor isoform 2
+13	MH615813.1	Unknown	GSEFLamide precursor isoform 3
+14	MH615814.1	Unknown	AlkB
+15	MH615815.1	Unknown	AlkB
+16	MH615816.1	Unknown	Unknown
+17	MH615817.1	Unknown	Unknown
+18	MH615818.1	Unknown	Unknown
+19	MH615819.1	Unknown	Unknown
+20	MH615820.1	Unknown	DExD/H box RNA helicase 44
+21	MH615821.1	Unknown	DExD/H box RNA helicase 20
+22	MH615822.1	Unknown	putative helicase SEN1
+23	MH615823.1	Unknown	DExD/H box RNA helicase 24
+24	MH615824.1	Unknown	DExD/H box RNA helicase 40
+25	MH615825.1	Unknown	DExD/H box RNA helicase 41
+26	MH615826.1	Unknown	helicase SRCAP isoform X1
+27	MH615827.1	Unknown	ATP-dependent DNA helicase 2 subunit 1
+28	MH615828.1	Unknown	DExD/H box RNA helicase 7
+29	MH615829.1	Unknown	DExD/H box RNA helicase 45
+30	MH615830.1	Unknown	DNA repair helicase rad3
+31	MH615831.1	Unknown	DExD/H box RNA helicase 28
+32	MH615832.1	Unknown	DExD/H box RNA helicase 15
+33	MH615833.1	Unknown	ATP-dependent helicase NAM7
+34	MH615834.1	Unknown	DNA repair helicase rad25 family protein
+35	MH615835.1	Unknown	ribosomal protein L2
+36	MH615836.1	Unknown	nef protein
+37	MH615837.1	Unknown	polyprotein
+38	MH615838.1	A/chicken/Egypt/YA 22/2011	hemagglutinin
+39	MH615839.1	Rs5725_Yunnan	ORF8
+40	MH615840.1	Rf5511_Yunnan	ORF8
+41	MH615841.1	Rs6255_Yunnan	ORF8
+42	MH615842.1	Rs160665_Yunnan	ORF8
+43	MH615843.1	RaTG13_Yunnan	ORF8
+44	MH615844.1	Rs13479_Guangxi	ORF8
+45	MH615845.1	Rs13484_Guangxi	ORF8
+46	MH615846.1	Rs13488_Guangxi	ORF8
+47	MH615847.1	Rs141455_Guangxi	ORF8
+48	MH615848.1	Rs141567_Guangxi	ORF8
+49	MH615849.1	Rs151262_Guizhou	ORF8
+50	MH615850.1	Rs151388_Guizhou	ORF8
+51	MH615851.1	Rs151491_Guizhou	ORF8
+52	MH615852.1	Rs151493_Guizhou	ORF8
+53	MH615853.1	Rs151503_Guizhou	ORF8
+54	MH615854.1	Rs151514_Guizhou	ORF8
+55	MH615855.1	Rs151569_Guizhou	ORF8
+56	MH615856.1	Rs8363_Guangdong	ORF8
+57	MH615857.1	Rs8460_Guangdong	ORF8
+58	MH615858.1	Rs8548_Guangdong	ORF8
+59	MH615859.1	Rs8561_Guangdong	ORF8
+60	MH615860.1	Rs8572_Guangdong	ORF8
+61	MH615861.1	Rs8586_Guangdong	ORF8
+62	MH615862.1	Rp8794_Guangdong	ORF8
+63	MH615863.1	Rs13589_Guangdong	ORF8
+64	MH615864.1	Rs13973_Guangdong	ORF8
+65	MH615865.1	Rs140288_Guangdong	ORF8
+66	MH615866.1	Rs140289_Guangdong	ORF8
+67	MH615867.1	Rp140346_Guangdong	ORF8
+68	MH615868.1	Rs140391_Guangdong	ORF8
+69	MH615869.1	Rs141341_Guangdong	ORF8
+70	MH615870.1	Rs141369_Guangdong	ORF8
+71	MH615871.1	Rs161419_Guangdong	ORF8
+72	MH615872.1	Rs161465_Guangdong	ORF8
+73	MH615873.1	Rm2842_Chongqing	ORF8
+74	MH615874.1	Rs151161_Hunan	ORF8
+75	MH615875.1	Rs151199_Hunan	ORF8
+76	MH615876.1	Rs151200_Hunan	ORF8
+77	MH615877.1	Rs151239_Hunan	ORF8
+78	MH615878.1	Rs9201_Hubei	ORF8
+79	MH615879.1	Rs9214_Hubei	ORF8
+80	MH615880.1	Rf131412_Shanxi	ORF8
+81	MH615881.1	Rf131457_Shanxi	ORF8
+82	MH615882.1	Rf131468_Shanxi	ORF8
+83	MH615883.1	Rf131481_Shanxi	ORF8
+144	MH615944.1	Rf5511_Yunnan	spike protein
+145	MH615945.1	Rs6303_Yunnan	spike protein
+146	MH615946.1	Rs6255_Yunnan	spike protein
+147	MH615947.1	Rs6266_Yunnan	spike protein
+148	MH615948.1	Rs160665_Yunnan	spike protein
+149	MH615949.1	Rs5725_Yunnan	spike protein
+150	MH615950.1	Rspp7931_Yunnan	spike protein
+151	MH615951.1	Rspp7905_Yunnan	spike protein
+152	MH615952.1	Ra7909_Yunnan	spike protein
+153	MH615953.1	Rspp7924_Yunnan	spike protein
+154	MH615954.1	Rs8363_Guangdong	spike protein
+155	MH615955.1	Rs141456_Guangxi	spike protein
+156	MH615956.1	Rs140400_Guangdong	spike protein
+157	MH615957.1	Rs140391_Guangdong	spike protein
+158	MH615958.1	Rs141341_Guangdong	spike protein
+159	MH615959.1	Rs141369_Guangdong	spike protein
+160	MH615960.1	Rs140288_Guangdong	spike protein
+161	MH615961.1	Rs8460_Guangdong	spike protein
+162	MH615962.1	Rs13589_Guangdong	spike protein
+163	MH615963.1	Rs13973_Guangdong	spike protein
+164	MH615964.1	Rs13479_Guangxi	spike protein
+165	MH615965.1	Rs13488_Guangxi	spike protein
+166	MH615966.1	Rs13484_Guangxi	spike protein
+167	MH615967.1	Rs140289_Guangdong	spike protein
+168	MH615968.1	Rs141455_Guangxi	spike protein
+169	MH615969.1	Rs141567_Guangxi	spike protein
+170	MH615970.1	Rs8561_Guangdong	spike protein
+171	MH615971.1	Rs8572_Guangdong	spike protein
+172	MH615972.1	Rs8586_Guangdong	spike protein
+173	MH615973.1	Rp140346_Guangdong	spike protein
+174	MH615974.1	Rs151569_Guizhou	spike protein
+175	MH615975.1	Rf131457_Shanxi	spike protein
+176	MH615976.1	Rf131412_Shanxi	spike protein
+177	MH615977.1	Rf131405_Shanxi	spike protein
+178	MH615978.1	Rs151239_Hunan	spike protein
+179	MH615979.1	Rm2842_Chongqing	spike protein
+180	MH615980.1	Rf131481_Shanxi	spike protein
+181	MH615981.1	Rf131468_Shanxi	spike protein
+182	MH615982.1	Rs151161_Hunan	spike protein
+183	MH615983.1	Rs151388_Guizhou	spike protein
+184	MH615984.1	Rs151493_Guizhou	spike protein
+185	MH615985.1	Rs151503_Guizhou	spike protein
+186	MH615986.1	Rs151200_Hunan	spike protein
+187	MH615987.1	Rs151262_Guizhou	spike protein
+188	MH615988.1	Rs151334_Guizhou	spike protein
+189	MH615989.1	Rs151491_Guizhou	spike protein
+190	MH615990.1	Rs151514_Guizhou	spike protein
+191	MH615991.1	Rs161419_Guangdong	spike protein
+192	MH615992.1	Rs161465_Guangdong	spike protein
+193	MH615993.1	Unknown	Unknown
+194	MH615994.1	Unknown	Unknown
+195	MH615995.1	Unknown	Unknown
+196	MH615996.1	Unknown	Unknown
+197	MH615997.1	Unknown	Unknown
+198	MH615998.1	Unknown	Unknown
+199	MH615999.1	Unknown	ribosomal protein L32
+200	MH616000.1	Unknown	ribosomal protein L32

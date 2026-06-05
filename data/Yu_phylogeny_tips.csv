@@ -1,157 +1,157 @@
-thesis_position,Lineage, Name, decoration, Yu2019_ID, Yu2019_Host, Yu2019_Location, Yu2019_Accession
-1,Outgroup, HCoV-EMC, none, NA, NA, NA, NA
-2,Lineage 4, Ra4991 Yunnan, bold, NA, NA, NA, NA
-3,Lineage4, Rspp7907 Yunnan, bold, NA, NA, NA, NA
-4,Lineage4, Rspp7921 Yunnan, bold, NA, NA, NA, NA
-5,Lineage4, Ra7909 Yunnan, bold, NA, NA, NA, NA
-6,Lineage4, Rspp7952 Yunnan, bold, NA, NA, NA, NA
-7,Lineage4, Rspp7896 Yunnan, bold, NA, NA, NA, NA
-8,Lineage4, Rspp7931 Yunnan, bold, NA, NA, NA, NA
-9,Lineage4, Rspp7905 Yunnan, bold, NA, NA, NA, NA
-10,Lineage4, Rspp7924 Yunnan, bold, NA, NA, NA, NA
-11,Lineage1-outgroup, BM48-31/Bulgaria, none, BM48-31, Rhinolophus blasii, Bulgaria, NC_014470
-12,Lineage1, MLHJC35/Yunnan, none, MLHJC35, Rhinolophus sinicus, Yunnan, KU182963
-13,Lineage1, LYRa11/Yunnan, none, LYRa11, Rhinolophus affinis, Yunnan, KF569996
-14,Lineage1, Rf4092/Yunnnan, none, Rf4092, Rhinolophus ferrumequinum, Yunnan, KY417145
-15,Lineage1, Rp3/Guangxi, none, Rp3, Rhinolophus pearsonii, Guangxi, DQ071615
-16,Lineage1, Rs672/2006/Guizhou, none, Rs672/2006, Rhinolophus sinicus, Guizhou, FJ588686
-17,Lineage1, Anlong-111/Guizhou, none, Anlong-111, Rhinolophus rex, Guizhou, KF294455
-18,Lineage1, Anlong-97/Guizhou, none, Anlong-97, Rhinolophus sinicus, Guizhou, KF294440
-19,Lineage1, Anlong-300/Guizhou, none, Anlong-300, Rhinolophus sinicus, Guizhou, KF294441
-20,Lineage1, Anlong-103/Guizhou, none, Anlong-103, Rhinolophus sinicus, Guizhou, KY770858
-21,Lineage1, Anlong-112/Guizhou, none, Anlong-112, Rhinolophus sinicus, Guizhou, KY770859
-22,Lineage1, Rs4231/Yunnan, none, Rs4231, Rhinolophus sinicus, Yunnan, KY417146
-23,Lineage1, YN2013/Yunnan, none, YN2013, Rhinolophus sinicus, Yunnan, KJ473816
-24,Lineage1, Rs9401/Yunnan, none, Rs9401, Rhinolophus sinicus, Yunnan, KY417152
-25,Lineage1, Rs7327/Yunnan, none, Rs7327, Rhinolophus sinicus, Yunnan, KY417151
-26,Lineage1, As6526/Yunnan, none, As6526, Aselliscus stoliczkanus, Yunnan, KY417142
-27,Lineage1, Rs160665 Yunnan, bold, NA, NA, NA, NA
-28,Lineage1, Rs6266 Yunnan, bold, NA, NA, NA, NA
-29,Lineage1, Rs4081/Tunnan, none, Rs4081, Rhinolophus sinicus, Yunnan, KY417143
-30,Lineage1, WIV16/Yunnan, none, WIV16, Rhinolophus sinicus, Yunnan, KT444582
-31,Lineage1, Rs4874/Yunnan, none, Rs4874, Rhinolophus sinicus, Yunnan, KY417150
-32,Lineage1, Rm2841 Chongqing, bold, NA, NA, NA, NA
-33,Lineage1, Rs4237/Yunnan, none, Rs4237, Rhinolophus sinicus, Yunnan, KY417147
-34,Lineage1, Rs4247/Yunnan, none, Rs4247, Rhinolophus sinicus, Yunnan, KY417148
-35,Lineage1, YNLF 34C/Yunnan, none, YNLF_34C, Rhinolophus ferrumequinum, Yunnan, KP886809
-36,Lineage1, YNLF 31C/Yunnan, none, YNLF_31C, Rhinolophus ferrumequinum, Yunnan, KP886808
-37,Lineage1, Rf5511 Yunnan, bold, NA, NA, NA, NA
-38,Lineage1, TOR2, none, TOR2, Homo sapiens, Canada, AY274119
-39,Lineage1, SZ3, none, SZ3, Paguma larvata, Guangdong, AY304486
-40,Lineage1, BJ01, none, BJ01, Homo sapiens, Beijing, AY278488
-41,Lineage1, GZ02, none, GZ02, Homo sapiens, Guangdong, AY390556
-42,Lineage1, Rs5725 Yunnan, bold, NA, NA, NA, NA
-43,Lineage1, RsSHC014/Yunnan, none, RsSHC014, Rhinolophus sinicus, Yunnan, KC881005
-44,Lineage1, Rs4084/Yunnan, none, Rs4084, Rhinolophus sinicus, Yunnan, KY417144
-45,Lineage1, Rs4255/Yunnan, none, Rs4255, Rhinolophus sinicus, Yunnan, KY417149
-46,Lineage1, Rs6255 Yunnan, bold, NA, NA, NA, NA
-47,Lineage1, WIV1/Yunnan, none, WIV1, Rhinolophus sinicus, Yunnan, KF367457
-48,Lineage1, Rs3367/Yunnan, none, Rs3367, Rhinolophus sinicus, Yunnan, KC881006
-49,Lineage1, Rs141455 Guangxi, bold, NA, NA, NA, NA
-50,Lineage1, Rs141456 Guangxi, bold, NA, NA, NA, NA
-51,Lineage1, Rs141567 Guangxi, bold, NA, NA, NA, NA
-52,Lineage1, GX2013/Guangxi, none, GX2013, Rhinolophus sinicus, Guangxi, KJ473815
-53,Lineage1, Rs13479 Guangxi, bold, NA, NA, NA, NA
-54,Lineage1, Rs13488 Guangxi, bold, NA, NA, NA, NA
-55,Lineage1, Rs13484 Guangxi, bold, NA, NA, NA, NA
-56,Lineage1, Rs141469 Guizhou, bold, NA, NA, NA, NA
-57,Lineage1, Rp140346 Guangdong, bold, NA, NA, NA, NA
-58,Lineage1, Rp8794 Guangdong, bold, NA, NA, NA, NA
-59,Lineage1, Rs8561 Guangdong, bold, NA, NA, NA, NA
-60,Lineage1, Rs8586 Guangdong, bold, NA, NA, NA, NA
-61,Lineage1, Rs8548 Guangdong, bold, NA, NA, NA, NA
-62,Lineage1, Rs8572 Guangdong, bold, NA, NA, NA, NA
-63,Lineage1, Rs13973 Guangdong, bold, NA, NA, NA, NA
-64,Lineage1, Rs140391 Guangdong, bold, NA, NA, NA, NA
-65,Lineage1, Rs161419 Guangdong, bold, NA, NA, NA, NA
-66,Lineage1, Rs161465 Guangdong, bold, NA, NA, NA, NA
-67,Lineage2, Rs13589 Guangdong, bold, NA, NA, NA, NA
-68,Lineage2, Rs8460 Guangdong, bold, NA, NA, NA, NA
-69,Lineage2, HKU3-12/Hong Kong, none, HKU3-12, Rhinolophus sinicus, Hong Kong, GQ153547
-70,Lineage2, Rs141341 Guangdong, bold, NA, NA, NA, NA
-71,Lineage2, Rs8363 Guangdong, bold, NA, NA, NA, NA
-72,Lineage2, Rs141369 Guangdong, bold, NA, NA, NA, NA
-73,Lineage2, HKU3-7/Guangdong, none, HKU3-7, Rhinolophus sinicus, Guangdong, GQ153542
-74,Lineage2, HKU3-8/Guangdong, none, HKU3-8, Rhinolophus sinicus, Guangdong, GQ153543
-75,Lineage2, HKU3-1/Hong Kong, none, HKU3-1, Rhinolophus sinicus, Hong Kong, DQ022305
-76,Lineage2, HKU3-3/Hong Kong, none, HKU3-3, Rhinolophus sinicus, Hong Kong, DQ084200
-77,Lineage2, HKU3-9/Hong Kong, none, HKU3-9, Rhinolophus sinicus, Hong Kong, GQ153544
-78,Lineage2, HKU3-11/Hong Kong, none, HKU3-11, Rhinolophus sinicus, Hong Kong, GQ153546
-79,Lineage2, HKU3-5/Hong Kong, none, HKU3-5, Rhinolophus sinicus, Hong Kong, GQ153540
-80,Lineage2, HKU3-2/Hong Kong, none, HKU3-2, Rhinolophus sinicus, Hong Kong, DQ084199
-81,Lineage2, HKU3-10/Hong Kong, none, HKU3-10, Rhinolophus sinicus, Hong Kong, GQ153545
-82,Lineage2, HKU3-13/Hong Kong, none, HKU3-13, Rhinolophus sinicus, Hong Kong, GQ153548
-83,Lineage2, HKU3-4/Hong Kong, none, HKU3-4, Rhinolophus sinicus, Hong Kong, GQ153539
-84,Lineage2, HKU3-6/Hong Kong, none, HKU3-6, Rhinolophus sinicus, Hong Kong, GQ153541
-85,Lineage2, Rs140288 Guangdong, bold, NA, NA, NA, NA
-86,Lineage2, Rs140289 Guangdong, bold, NA, NA, NA, NA
-87,Lineage2, bat-Sl-CoVZC45/Zhejiang, none, bat-SL-CoVZC45, Rhinolophus sinicus, Zhejiang, MG772933
-88,Lineage2, Longquan-89/Zhejiang, none, Longquan-89, Rhinolophus sinicus, Zhejiang, KF294421
-89,Lineage2, Longquan-119/Zhejiang, none, Longquan-119, Rhinolophus monoceros, Zhejiang, KF294431
-90,Lineage2, Longquan-82/Zhejiang, none, Longquan-82, Rhinolophus monoceros, Zhejiang, KF294420
-91,Lineage2, Longquan-142/Zhejiang, none, Longquan-142, Rhinolophus monoceros, Zhejiang, KF294438
-92,Lineage2, Longquan-94/Zhejiang, none, Longquan-94, Rhinolophus monoceros, Zhejiang, KF294422
-93,Lineage2, Longquan-33/Zhejiang, none, Longquan-33, Rhinolophus monoceros, Zhejiang, KF294447
-94,Lineage2, Longquan-112/Zhejiang, none, Longquan-112, Rhinolophus monoceros, Zhejiang, KF294429
-95,Lineage2, Longquan-79/Zhejiang, none, Longquan-79, Rhinolophus monoceros, Zhejiang, KF294454
-96,Lineage2, Longquan-140/Zhejiang, none, Longquan-140, Rhinolophus monoceros, Zhejiang, KF294457
-97,Lineage2, Longquan-127/Zhejiang, none, Longquan-127, Rhinolophus sinicus, Zhejiang, KF294433
-98,Lineage2, Longquan-110/Zhejiang, none, Longquan-110, Rhinolophus monoceros, Zhejiang, KF294428
-99,Lineage2, Longquan-34/Zhejiang, none, Longquan-34, Rhinolophus monoceros, Zhejiang, KF294448
-100,Lineage2, Longquan-51/Zhejiang, none, Longquan-51, Rhinolophus monoceros, Zhejiang, KF294452
-101,Lineage2, Longquan-76/Zhejiang, none, Longquan-76, Rhinolophus monoceros, Zhejiang, KF294453
-102,Lineage2, Longquan-32/Zhejiang, none, Longquan-32, Rhinolophus monoceros, Zhejiang, KF294446
-103,Lineage2, Longquan-45/Zhejiang, none, Longquan-45, Rhinolophus monoceros, Zhejiang, KF294451
-104,Lineage2, Longquan-36/Zhejiang, none, Longquan-36, Rhinolophus monoceros, Zhejiang, KF294449
-105,Lineage2, Longquan-100/Zhejiang, none, Longquan-100, Rhinolophus monoceros, Zhejiang, KF294424
-106,Lineage2, Longquan-103/Zhejiang, none, Longquan-103, Rhinolophus thomasi, Zhejiang, KF294425
-107,Lineage2, Longquan-20/Zhejiang, none, Longquan-20, Rhinolophus monoceros, Zhejiang, KF294445
-108,Lineage2, Longquan-138/Zhejiang, none, Longquan-138, Rhinolophus monoceros, Zhejiang, KF294437
-109,Lineage2, Longquan-132/Zhejiang, none, Longquan-132, Rhinolophus monoceros, Zhejiang, KF294436
-110,Lineage2, Longquan-131/Zhejiang, none, Longquan-131, Rhinolophus monoceros, Zhejiang, KF294435
-111,Lineage2, Longquan-126/Zhejiang, none, Longquan-126, Rhinolophus sinicus, Zhejiang, KF294432
-112,Lineage2, Longquan-129/Zhejiang, none, Longquan-129, Rhinolophus monoceros, Zhejiang, KF294434
-113,Lineage2, Longquan-105/Zhejiang, none, Longquan-105, Rhinolophus monoceros, Zhejiang, KF294426
-114,Lineage2, Longquan-96/Zhejiang, none, Longquan-96, Rhinolophus monoceros, Zhejiang, KF294423
-115,Lineage2, Longquan-4/Zhejiang, none, Longquan-4, Rhinolophus monoceros, Zhejiang, KF294442
-116,Lineage2, Longquan-106/Zhejiang, none, Longquan-106, Rhinolophus monoceros, Zhejiang, KF294427
-117,Lineage2, Longquan-39/Zhejiang, none, Longquan-39, Rhinolophus monoceros, Zhejiang, KF294450
-118,Lineage2, Longquan-114/Zhejiang, none, Longquan-114, Rhinolophus monoceros, Zhejiang, KF294430
-119,Lineage2, Longquan-7/Zhejiang, none, Longquan-7, Rhinolophus pearsonii, Zhejiang, KF294443
-120,Lineage2, Longquan-17/Zhejiang, none, Longquan-17, Rhinolophus monoceros, Zhejiang, KF294444
-121,Lineage2, bat-SL-CoVZXC21/Zhejiang, none, bat-SL-CoVZXC21, Rhinolophus sinicus, Zhejiang, MG772934
-122,Lineage3, Rs140400 Guangdong, bold, NA, NA, NA, NA
-123,Lineage3, Rm1/Hubei, none, Rm1, Rhinolophus_macrotis, Hubei, DQ412043
-124,Lineage3, BtCoV/279/2005/Hubei, none, BtCoV/279/2005, Rhinolophus macrotis, Hubei, DQ648857
-125,Lineage3, 9201 Hubei, bold, NA, NA, NA, NA
-126,Lineage3, Rp9214 Hubei, bold, NA, NA, NA, NA
-127,Lineage3, HuB2013/Hubei, none, HuB2013, Rhinolophus sinicus, Hubei, KJ473814
-128,Lineage3, Rs151514 Guizhou, bold, NA, NA, NA, NA
-129,Lineage3, Rs151491 Guizhou, bold, NA, NA, NA, NA
-130,Lineage3, Rs151491 Guizhou, bold, NA, NA, NA, NA
-131,Lineage3, Rs151493 Guizhou, bold, NA, NA, NA, NA
-132,Lineage3, Rs151503 Guizhou, bold, NA, NA, NA, NA
-133,Lineage3, Rs151262 Guizhou, bold, NA, NA, NA, NA
-134,Lineage3, Rs151388 Guizhou, bold, NA, NA, NA, NA
-135,Lineage3, Rs151334 Guizhou, bold, NA, NA, NA, NA
-136,Lineage3, Rs151161 Guizhou, bold, NA, NA, NA, NA
-137,Lineage3, Rs151239 Guizhou, bold, NA, NA, NA, NA
-138,Lineage3, Rs151199 Guizhou, bold, NA, NA, NA, NA
-139,Lineage3, Rs151200 Guizhou, bold, NA, NA, NA, NA
-140,Lineage3, Rp/Shaanxi2011/Shaanxi, none, Rp/Shaanxi2011, Rhinolophus pusillus, Shaanxi, JX993987
-141,Lineage3, Jiyuan-84/Henan, none, Jiyuan-84, Rhinolophus ferrumequinum, Henan, KY770860
-142,Lineage3, HeN2013/Henan, none, HeN2013, Rhinolophus ferrumequinum, Henan, KJ473817
-143,Lineage3, Rf131468 Shanxi, bold, NA, NA, NA, NA
-144,Lineage3, Rf131457 Shanxi, bold, NA, NA, NA, NA
-145,Lineage3, SX2013/Shanxi, none, SX2013, Rhinolophus ferrumequinum, Shanxi, KJ473813
-146,Lineage3, Rf131412 Shanxi, bold, NA, NA, NA, NA
-147,Lineage3, Rf131405 Shanxi, bold, NA, NA, NA, NA
-148,Lineage3, HeB2013/Hebei, none, HeB2013, Rhinolophus ferrumequinum, Hebei, KJ473812
-149,Lineage3, Jiyuan-331/Henan, none, Jiyuan-331, Rhinolophus ferrumequinum, Henan, KF294456
-150,Lineage3, Rf1/Hubei, none, Rf1, Rhinolophus ferrumequinum, Hubei, DQ412042
-151,Lineage3, BtCoV/273/2005/Hubei, none, BtCoV/273/2005, Rhinolophus ferrumequinum, Hubei, DQ648856
-152,Lineage3, Rf130223-29 Beijing, bold, NA, NA, NA, NA
-153,Lineage3, Rf131461 Shanxi, bold, NA, NA, NA, NA
-154,Lineage3, JL2012/Jilin, none, JL2012, Rhinolophus ferrumequinum, Jilin, KJ473811
-155,Lineage3, JTMC15/Jilin, none, JTMC15, Rhinolophus ferrumequinum, Jilin, KU182964
-156,Lineage3, 16BO133/South Korea, none, 16BO133, Rhinolophus ferrumequinum, South Korea, KY938558
+thesis_position,Lineage, Name, decoration, Yu2019_ID, Yu2019_Host, Yu2019_Location, Yu2019_Accession, Yu2018_Accession, Comment,
+1,Outgroup, HCoV-EMC, none, NA, NA, NA, NA, NC_019843,,
+2,Lineage 4, Ra4991 Yunnan, bold, NA, NA, NA, NA, MH615898.1,,
+3,Lineage4, Rspp7907 Yunnan, bold, NA, NA, NA, NA, MH615892.1,,
+4,Lineage4, Rspp7921 Yunnan, bold, NA, NA, NA, NA, MH615894.1,,
+5,Lineage4, Ra7909 Yunnan, bold, NA, NA, NA, NA, NA, MH615893.1, 
+6,Lineage4, Rspp7952 Yunnan, bold, NA, NA, NA, NA, MH615897.1,,
+7,Lineage4, Rspp7896 Yunnan, bold, NA, NA, NA, NA, MH615890.1,,
+8,Lineage4, Rspp7931 Yunnan, bold, NA, NA, NA, NA, MH615896.1,,
+9,Lineage4, Rspp7905 Yunnan, bold, NA, NA, NA, NA, MH615891.1,,
+10,Lineage4, Rspp7924 Yunnan, bold, NA, NA, NA, NA, MH615895.1,,
+11,Lineage1-outgroup, BM48-31/Bulgaria, none, BM48-31, Rhinolophus blasii, Bulgaria, NC_014470, NA, ,
+12,Lineage1, MLHJC35/Yunnan, none, MLHJC35, Rhinolophus sinicus, Yunnan, KU182963, NA, ,
+13,Lineage1, LYRa11/Yunnan, none, LYRa11, Rhinolophus affinis, Yunnan, KF569996, NA, ,
+14,Lineage1, Rf4092/Yunnnan, none, Rf4092, Rhinolophus ferrumequinum, Yunnan, KY417145, NA, ,
+15,Lineage1, Rp3/Guangxi, none, Rp3, Rhinolophus pearsonii, Guangxi, DQ071615, NA, ,
+16,Lineage1, Rs672/2006/Guizhou, none, Rs672/2006, Rhinolophus sinicus, Guizhou, FJ588686, NA, ,
+17,Lineage1, Anlong-111/Guizhou, none, Anlong-111, Rhinolophus rex, Guizhou, KF294455, NA, ,
+18,Lineage1, Anlong-97/Guizhou, none, Anlong-97, Rhinolophus sinicus, Guizhou, KF294440, NA, ,
+19,Lineage1, Anlong-300/Guizhou, none, Anlong-300, Rhinolophus sinicus, Guizhou, KF294441, NA, ,
+20,Lineage1, Anlong-103/Guizhou, none, Anlong-103, Rhinolophus sinicus, Guizhou, KY770858, NA, ,
+21,Lineage1, Anlong-112/Guizhou, none, Anlong-112, Rhinolophus sinicus, Guizhou, KY770859, NA, ,
+22,Lineage1, Rs4231/Yunnan, none, Rs4231, Rhinolophus sinicus, Yunnan, KY417146, NA, ,
+23,Lineage1, YN2013/Yunnan, none, YN2013, Rhinolophus sinicus, Yunnan, KJ473816, NA, ,
+24,Lineage1, Rs9401/Yunnan, none, Rs9401, Rhinolophus sinicus, Yunnan, KY417152, NA, ,
+25,Lineage1, Rs7327/Yunnan, none, Rs7327, Rhinolophus sinicus, Yunnan, KY417151, NA, ,
+26,Lineage1, As6526/Yunnan, none, As6526, Aselliscus stoliczkanus, Yunnan, KY417142, NA, ,
+27,Lineage1, Rs160665 Yunnan, bold, NA, NA, NA, NA, MH615888.1, ,
+28,Lineage1, Rs6266 Yunnan, bold, NA, NA, NA, NA, MH615886.1, ,
+29,Lineage1, Rs6303 Yunnan, bold, NA, NA, NA, NA, MH615889.1, ,
+30,Lineage1, Rs4081/Yunnan, none, Rs4081, Rhinolophus sinicus, Yunnan, KY417143, NA, ,
+31,Lineage1, WIV16/Yunnan, none, WIV16, Rhinolophus sinicus, Yunnan, KT444582, NA, ,
+32,Lineage1, Rs4874/Yunnan, none, Rs4874, Rhinolophus sinicus, Yunnan, KY417150, NA, ,
+33,Lineage1, Rm2842 Chongqing, bold, NA, NA, NA, NA, MH615928.1, ,
+34,Lineage1, Rs4237/Yunnan, none, Rs4237, Rhinolophus sinicus, Yunnan, KY417147, NA, ,
+35,Lineage1, Rs4247/Yunnan, none, Rs4247, Rhinolophus sinicus, Yunnan, KY417148, NA, ,
+36,Lineage1, YNLF 34C/Yunnan, none, YNLF_34C, Rhinolophus ferrumequinum, Yunnan, KP886809, NA, ,
+37,Lineage1, YNLF 31C/Yunnan, none, YNLF_31C, Rhinolophus ferrumequinum, Yunnan, KP886808, NA, ,
+38,Lineage1, Rf5511 Yunnan, bold, NA, NA, NA, NA, MH615884.1, ,
+39,Lineage1, TOR2, none, TOR2, Homo sapiens, Canada, AY274119, NA, ,
+40,Lineage1, SZ3, none, SZ3, Paguma larvata, Guangdong, AY304486, NA, ,
+41,Lineage1, BJ01, none, BJ01, Homo sapiens, Beijing, AY278488, NA, ,
+42,Lineage1, GZ02, none, GZ02, Homo sapiens, Guangdong, AY390556, NA, ,
+43,Lineage1, Rs5725 Yunnan, bold, NA, NA, NA, NA, MH615887.1, ,
+44,Lineage1, RsSHC014/Yunnan, none, RsSHC014, Rhinolophus sinicus, Yunnan, KC881005, NA ,,
+45,Lineage1, Rs4084/Yunnan, none, Rs4084, Rhinolophus sinicus, Yunnan, KY417144, NA ,,
+46,Lineage1, Rs4255/Yunnan, none, Rs4255, Rhinolophus sinicus, Yunnan, KY417149, NA ,,
+47,Lineage1, Rs6255 Yunnan, bold, NA, NA, NA, NA, MH615885.1, ,
+48,Lineage1, WIV1/Yunnan, none, WIV1, Rhinolophus sinicus, Yunnan, KF367457, NA, ,
+49,Lineage1, Rs3367/Yunnan, none, Rs3367, Rhinolophus sinicus, Yunnan, KC881006, NA, ,
+50,Lineage1, Rs141455 Guangxi, bold, NA, NA, NA, NA, MH615917.1, ,
+51,Lineage1, Rs141456 Guangxi, bold, NA, NA, NA, NA, MH615905.1, ,
+52,Lineage1, Rs141567 Guangxi, bold, NA, NA, NA, NA, MH615918.1, ,
+53,Lineage1, GX2013/Guangxi, none, GX2013, Rhinolophus sinicus, Guangxi, KJ473815, NA, ,
+54,Lineage1, Rs13479 Guangxi, bold, NA, NA, NA, NA, MH615901.1, ,
+55,Lineage1, Rs13488 Guangxi, bold, NA, NA, NA, NA, MH615903.1, ,
+56,Lineage1, Rs13484 Guangxi, bold, NA, NA, NA, NA, MH615914.1, ,
+57,Lineage1, Rs151569 Guizhou, bold, NA, NA, NA, NA, MH615919.1, ,
+58,Lineage1, Rp140346 Guangdong, bold, NA, NA, NA, NA, MH615911.1, ,
+59,Lineage1, Rp8794 Guangdong, bold, NA, NA, NA, NA, MH615920.1, ,
+60,Lineage1, Rs8561 Guangdong, bold, NA, NA, NA, NA, MH615915.1, ,
+61,Lineage1, Rs8586 Guangdong, bold, NA, NA, NA, NA, MH615900.1, ,
+62,Lineage1, Rs8548 Guangdong, bold, NA, NA, NA, NA, MH615899.1, ,
+63,Lineage1, Rs8572 Guangdong, bold, NA, NA, NA, NA, MH615916.1, ,
+64,Lineage1, Rs13973 Guangdong, bold, NA, NA, NA, NA, MH615902.1, ,
+65,Lineage1, Rs140391 Guangdong, bold, NA, NA, NA, NA, MH615904.1, ,
+66,Lineage1, Rs161419 Guangdong, bold, NA, NA, NA, NA, MH615942.1, ,
+67,Lineage1, Rs161465 Guangdong, bold, NA, NA, NA, NA, MH615943.1, ,
+68,Lineage2, Rs13589 Guangdong, bold, NA, NA, NA, NA, MH615909.1, ,
+69,Lineage2, Rs8460 Guangdong, bold, NA, NA, NA, NA, MH615921.1, ,
+70,Lineage2, HKU3-12/Hong Kong, none, HKU3-12, Rhinolophus sinicus, Hong Kong, GQ153547, NA, ,
+71,Lineage2, Rs141341 Guangdong, bold, NA, NA, NA, NA, MH615908.1, ,
+72,Lineage2, Rs8363 Guangdong, bold, NA, NA, NA, NA, MH615906.1, ,
+73,Lineage2, Rs141369 Guangdong, bold, NA, NA, NA, NA, MH615907.1, ,
+74,Lineage2, HKU3-7/Guangdong, none, HKU3-7, Rhinolophus sinicus, Guangdong, GQ153542, NA, ,
+75,Lineage2, HKU3-8/Guangdong, none, HKU3-8, Rhinolophus sinicus, Guangdong, GQ153543, NA, ,
+76,Lineage2, HKU3-1/Hong Kong, none, HKU3-1, Rhinolophus sinicus, Hong Kong, DQ022305, NA, ,
+77,Lineage2, HKU3-3/Hong Kong, none, HKU3-3, Rhinolophus sinicus, Hong Kong, DQ084200, NA, ,
+78,Lineage2, HKU3-9/Hong Kong, none, HKU3-9, Rhinolophus sinicus, Hong Kong, GQ153544, NA, ,
+79,Lineage2, HKU3-11/Hong Kong, none, HKU3-11, Rhinolophus sinicus, Hong Kong, GQ153546, NA, ,
+80,Lineage2, HKU3-5/Hong Kong, none, HKU3-5, Rhinolophus sinicus, Hong Kong, GQ153540, NA, ,
+81,Lineage2, HKU3-2/Hong Kong, none, HKU3-2, Rhinolophus sinicus, Hong Kong, DQ084199, NA, ,
+82,Lineage2, HKU3-10/Hong Kong, none, HKU3-10, Rhinolophus sinicus, Hong Kong, GQ153545, NA, ,
+83,Lineage2, HKU3-13/Hong Kong, none, HKU3-13, Rhinolophus sinicus, Hong Kong, GQ153548, NA, ,
+84,Lineage2, HKU3-4/Hong Kong, none, HKU3-4, Rhinolophus sinicus, Hong Kong, GQ153539, NA, ,
+85,Lineage2, HKU3-6/Hong Kong, none, HKU3-6, Rhinolophus sinicus, Hong Kong, GQ153541, NA, ,
+86,Lineage2, Rs140288 Guangdong, bold, NA, NA, NA, NA, MH615910.1, ,
+87,Lineage2, Rs140289 Guangdong, bold, NA, NA, NA, NA, MH615913.1, ,
+88,Lineage2, bat-Sl-CoVZC45/Zhejiang, none, bat-SL-CoVZC45, Rhinolophus sinicus, Zhejiang, MG772933, NA, ,
+89,Lineage2, Longquan-89/Zhejiang, none, Longquan-89, Rhinolophus sinicus, Zhejiang, KF294421, NA, ,
+90,Lineage2, Longquan-119/Zhejiang, none, Longquan-119, Rhinolophus monoceros, Zhejiang, KF294431, NA, ,
+91,Lineage2, Longquan-82/Zhejiang, none, Longquan-82, Rhinolophus monoceros, Zhejiang, KF294420, NA, ,
+92,Lineage2, Longquan-142/Zhejiang, none, Longquan-142, Rhinolophus monoceros, Zhejiang, KF294438, NA, ,
+93,Lineage2, Longquan-94/Zhejiang, none, Longquan-94, Rhinolophus monoceros, Zhejiang, KF294422, NA, ,
+94,Lineage2, Longquan-33/Zhejiang, none, Longquan-33, Rhinolophus monoceros, Zhejiang, KF294447, NA, ,
+95,Lineage2, Longquan-112/Zhejiang, none, Longquan-112, Rhinolophus monoceros, Zhejiang, KF294429, NA, ,
+96,Lineage2, Longquan-79/Zhejiang, none, Longquan-79, Rhinolophus monoceros, Zhejiang, KF294454, NA, ,
+97,Lineage2, Longquan-140/Zhejiang, none, Longquan-140, Rhinolophus monoceros, Zhejiang, KF294457, NA, ,
+98,Lineage2, Longquan-127/Zhejiang, none, Longquan-127, Rhinolophus sinicus, Zhejiang, KF294433, NA, ,
+99,Lineage2, Longquan-110/Zhejiang, none, Longquan-110, Rhinolophus monoceros, Zhejiang, KF294428, NA, ,
+100,Lineage2, Longquan-34/Zhejiang, none, Longquan-34, Rhinolophus monoceros, Zhejiang, KF294448, NA, ,
+101,Lineage2, Longquan-51/Zhejiang, none, Longquan-51, Rhinolophus monoceros, Zhejiang, KF294452, NA, ,
+102,Lineage2, Longquan-76/Zhejiang, none, Longquan-76, Rhinolophus monoceros, Zhejiang, KF294453, NA, ,
+103,Lineage2, Longquan-32/Zhejiang, none, Longquan-32, Rhinolophus monoceros, Zhejiang, KF294446, NA, ,
+104,Lineage2, Longquan-45/Zhejiang, none, Longquan-45, Rhinolophus monoceros, Zhejiang, KF294451, NA, ,
+105,Lineage2, Longquan-36/Zhejiang, none, Longquan-36, Rhinolophus monoceros, Zhejiang, KF294449, NA, ,
+106,Lineage2, Longquan-100/Zhejiang, none, Longquan-100, Rhinolophus monoceros, Zhejiang, KF294424, NA, ,
+107,Lineage2, Longquan-103/Zhejiang, none, Longquan-103, Rhinolophus thomasi, Zhejiang, KF294425, NA, ,
+108,Lineage2, Longquan-20/Zhejiang, none, Longquan-20, Rhinolophus monoceros, Zhejiang, KF294445, NA, ,
+109,Lineage2, Longquan-138/Zhejiang, none, Longquan-138, Rhinolophus monoceros, Zhejiang, KF294437, NA, ,
+110,Lineage2, Longquan-132/Zhejiang, none, Longquan-132, Rhinolophus monoceros, Zhejiang, KF294436, NA, ,
+111,Lineage2, Longquan-131/Zhejiang, none, Longquan-131, Rhinolophus monoceros, Zhejiang, KF294435, NA, ,
+112,Lineage2, Longquan-126/Zhejiang, none, Longquan-126, Rhinolophus sinicus, Zhejiang, KF294432, NA, ,
+113,Lineage2, Longquan-129/Zhejiang, none, Longquan-129, Rhinolophus monoceros, Zhejiang, KF294434, NA, ,
+114,Lineage2, Longquan-105/Zhejiang, none, Longquan-105, Rhinolophus monoceros, Zhejiang, KF294426, NA, ,
+115,Lineage2, Longquan-96/Zhejiang, none, Longquan-96, Rhinolophus monoceros, Zhejiang, KF294423, NA, ,
+116,Lineage2, Longquan-4/Zhejiang, none, Longquan-4, Rhinolophus monoceros, Zhejiang, KF294442, NA, ,
+117,Lineage2, Longquan-106/Zhejiang, none, Longquan-106, Rhinolophus monoceros, Zhejiang, KF294427, NA, ,
+118,Lineage2, Longquan-39/Zhejiang, none, Longquan-39, Rhinolophus monoceros, Zhejiang, KF294450, NA, ,
+119,Lineage2, Longquan-114/Zhejiang, none, Longquan-114, Rhinolophus monoceros, Zhejiang, KF294430, NA, ,
+120,Lineage2, Longquan-7/Zhejiang, none, Longquan-7, Rhinolophus pearsonii, Zhejiang, KF294443, NA, ,
+121,Lineage2, Longquan-17/Zhejiang, none, Longquan-17, Rhinolophus monoceros, Zhejiang, KF294444, NA, ,
+122,Lineage2, bat-SL-CoVZXC21/Zhejiang, none, bat-SL-CoVZXC21, Rhinolophus sinicus, Zhejiang, MG772934, NA, ,
+123,Lineage3, Rs140400 Guangdong, bold, NA, NA, NA, NA, MH615912.1, ,
+124,Lineage3, Rm1/Hubei, none, Rm1, Rhinolophus_macrotis, Hubei, DQ412043, NA, ,
+125,Lineage3, BtCoV/279/2005/Hubei, none, BtCoV/279/2005, Rhinolophus macrotis, Hubei, DQ648857, NA, ,
+126,Lineage3, 9201 Hubei, bold, NA, NA, NA, NA, MH615930.1, ,
+127,Lineage3, Rp9214 Hubei, bold, NA, NA, NA, NA, MH615931.1,Rs9214,
+128,Lineage3, HuB2013/Hubei, none, HuB2013, Rhinolophus sinicus, Hubei, KJ473814, NA, ,
+129,Lineage3, Rs151514 Guizhou, bold, NA, NA, NA, NA, MH615941.1, ,
+130,Lineage3, Rs151491 Guizhou, bold, NA, NA, NA, NA, MH615938.1, ,
+131,Lineage3, Rs151493 Guizhou, bold, NA, NA, NA, NA, MH615939.1, ,
+132,Lineage3, Rs151503 Guizhou, bold, NA, NA, NA, NA, MH615940.1, ,
+133,Lineage3, Rs151262 Guizhou, bold, NA, NA, NA, NA, MH615935.1, ,
+134,Lineage3, Rs151388 Guizhou, bold, NA, NA, NA, NA, MH615937.1, ,
+135,Lineage3, Rs151334 Guizhou, bold, NA, NA, NA, NA, MH615936.1, ,
+136,Lineage3, Rs151161 Guizhou, bold, NA, NA, NA, NA, MH615933.1, ,
+137,Lineage3, Rs151239 Guizhou, bold, NA, NA, NA, NA, MH615924.1, ,
+138,Lineage3, Rs151199 Guizhou, bold, NA, NA, NA, NA, MH615929.1, ,
+139,Lineage3, Rs151200 Guizhou, bold, NA, NA, NA, NA, MH615934.1, ,
+140,Lineage3, Rp/Shaanxi2011/Shaanxi, none, Rp/Shaanxi2011, Rhinolophus pusillus, Shaanxi, JX993987, NA, ,
+141,Lineage3, Jiyuan-84/Henan, none, Jiyuan-84, Rhinolophus ferrumequinum, Henan, KY770860, NA, ,
+142,Lineage3, HeN2013/Henan, none, HeN2013, Rhinolophus ferrumequinum, Henan, KJ473817, NA, ,
+143,Lineage3, Rf131468 Shanxi, bold, NA, NA, NA, NA, MH615932.1, ,
+144,Lineage3, Rf131457 Shanxi, bold, NA, NA, NA, NA, MH615923.1, ,
+145,Lineage3, SX2013/Shanxi, none, SX2013, Rhinolophus ferrumequinum, Shanxi, KJ473813, NA, ,
+146,Lineage3, Rf131412 Shanxi, bold, NA, NA, NA, NA, MH615926.1, ,
+147,Lineage3, Rf131405 Shanxi, bold, NA, NA, NA, NA, MH615927.1, ,
+148,Lineage3, HeB2013/Hebei, none, HeB2013, Rhinolophus ferrumequinum, Hebei, KJ473812, NA, ,
+149,Lineage3, Jiyuan-331/Henan, none, Jiyuan-331, Rhinolophus ferrumequinum, Henan, KF294456, NA, ,
+150,Lineage3, Rf1/Hubei, none, Rf1, Rhinolophus ferrumequinum, Hubei, DQ412042, NA, ,
+151,Lineage3, BtCoV/273/2005/Hubei, none, BtCoV/273/2005, Rhinolophus ferrumequinum, Hubei, DQ648856, NA, ,
+152,Lineage3, Rf130223-29 Beijing, bold, NA, NA, NA, NA, MH615922.1, ,
+153,Lineage3, Rf131481 Shanxi, bold, NA, NA, NA, NA, MH615925.1, ,
+154,Lineage3, JL2012/Jilin, none, JL2012, Rhinolophus ferrumequinum, Jilin, KJ473811, NA, ,
+155,Lineage3, JTMC15/Jilin, none, JTMC15, Rhinolophus ferrumequinum, Jilin, KU182964, NA, ,
+156,Lineage3, 16BO133/South Korea, none, 16BO133, Rhinolophus ferrumequinum, South Korea, KY938558, NA, ,
